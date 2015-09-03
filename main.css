@@ -1,0 +1,15 @@
+h2 {
+
+	text-align: center;
+}
+
+select {
+	display: block;
+	margin-top: 20px;
+	width: 200px;
+}
+
+.main-div {
+	margin-left:25%;
+	text-align: center;
+}
